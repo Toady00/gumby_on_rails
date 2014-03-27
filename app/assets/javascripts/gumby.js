@@ -1,0 +1,13 @@
+//= require jquery
+//= require gumby/libs/modernizr-2.6.2.min.js
+//= require gumby/libs/gumby.js
+//= require gumby/libs/ui/gumby.checkbox.js
+//= require gumby/libs/ui/gumby.fixed.js
+//= require gumby/libs/ui/gumby.navbar.js
+//= require gumby/libs/ui/gumby.radiobtn.js
+//= require gumby/libs/ui/gumby.retina.js
+//= require gumby/libs/ui/gumby.skiplink.js
+//= require gumby/libs/ui/gumby.tabs.js
+//= require gumby/libs/ui/gumby.toggleswitch.js
+//= require gumby/libs/ui/jquery.validation.js
+//= require gumby/libs/gumby.init.js
