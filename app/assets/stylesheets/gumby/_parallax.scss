@@ -1,0 +1,11 @@
+// http://github.com/GumbyFramework/Parallax v1.2.0
+
+.parallax {
+  background-attachment: fixed !important;
+}
+
+.oldie, .ie9 {
+	.parallax {
+		background-attachment: static !important;
+	}
+}

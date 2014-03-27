@@ -10,9 +10,9 @@
   font-style: normal;
   font-weight: 400;
   src: url(../fonts/icons/#{$icons}.eot);
-  src: url('../fonts/icons/#{$icons}.eot?#iefix') format('ie9-skip-eot'),
-       url('../fonts/icons/#{$icons}.woff') format('woff'),
-       url('../fonts/icons/#{$icons}.ttf')  format('truetype');
+  src: url('../fonts/gumby/icons/#{$icons}.eot?#iefix') format('ie9-skip-eot'),
+       url('../fonts/gumby/icons/#{$icons}.woff') format('woff'),
+       url('../fonts/gumby/icons/#{$icons}.ttf')  format('truetype');
 }
 
 // To include your own, local copies of fonts, use the following template
