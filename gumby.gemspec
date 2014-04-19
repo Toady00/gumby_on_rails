@@ -5,7 +5,7 @@ require "gumby/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "gumby"
+  s.name        = "gumby_on_rails"
   s.version     = Gumby::VERSION
   s.authors     = ["Brandon Dennis"]
   s.email       = ["toady00@gmail.com"]
