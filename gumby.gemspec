@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "Rails Engine for Gumby Framework"
   s.description = "Rails Engine that provides all the Gumby Framework features to a rails application."
 
-  s.files = Dir["{app,config,db,lib,public}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib,public}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency 'rails', '~> 4.1.0'
   s.add_dependency 'sass-rails', '~> 4.0.2'
